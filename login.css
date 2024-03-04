@@ -1,0 +1,13 @@
+*{
+    background-color: white;
+    color: rgba(218, 38, 38, 0.937);
+    font-size: 100px;
+    font-weight: 200;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+p{
+    outline: black dashed 3px;
+}
